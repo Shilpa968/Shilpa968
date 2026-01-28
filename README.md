@@ -21,7 +21,7 @@
 
 ### 🌍 My Portfolio
 
-🔗 https://yourportfolio.netlify.app
+🔗https://shilpa968.github.io/My-Portfolio/
 
 ---
 
